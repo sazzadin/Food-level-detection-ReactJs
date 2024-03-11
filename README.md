@@ -1,6 +1,5 @@
 # Food-level-detection-ReactJs
 
-# Face Liveness Detection SDK
 ## Overview
 This SDK is a powerful 3D passive liveness detection solution that accurately detects presentation attacks, including printed photos, cutout masks, digital and video replay attacks, and 3D masks.
 
